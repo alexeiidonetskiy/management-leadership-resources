@@ -17,6 +17,9 @@ In this repository, I want to collect all valuable resources I can recommend to 
 - https://www.sonerdy.me/real-world-em
 - https://www.sonerdy.me/manager-course
 
+## Videos
+- https://youtu.be/Uw4jVjEEhZo?si=RCxKNZ449bght7Sm
+
 ## Resources
 
 ## Approaches
